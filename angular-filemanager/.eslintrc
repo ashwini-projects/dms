@@ -1,0 +1,12 @@
+{
+  "extends": "eslint:recommended",
+  "plugins": ["angular"],
+  "env": {
+    "browser": true,
+    "jasmine": true
+  },
+  "rules":{
+      "no-console":0,
+      "angular/log": 0
+  }
+}
