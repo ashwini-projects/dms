@@ -1,0 +1,2161 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cl",
+				"cl\tconsole.log"
+			],
+			[
+				"script",
+				"script\tTag"
+			],
+			[
+				"Pro",
+				"Promise\tES6 Promise"
+			],
+			[
+				"scri",
+				"script\tTag"
+			],
+			[
+				"real",
+				"real-time"
+			],
+			[
+				"thing",
+				"things"
+			],
+			[
+				"className",
+				"className=\"commentBox"
+			],
+			[
+				"scr",
+				"script\tTag"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"marign",
+				"margin-bottom"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"fone",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"marin",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"boots",
+				"js/bootstrap.min.js"
+			],
+			[
+				"scrip",
+				"script\tTag"
+			],
+			[
+				"browse",
+				"browserSync"
+			],
+			[
+				"brow",
+				"browser-sync"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"gulp",
+				"gulp.task('default"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"carou",
+				"carousel"
+			],
+			[
+				"carouse",
+				"carousel-example"
+			],
+			[
+				"color",
+				"colgroup\tTag"
+			],
+			[
+				"all",
+				"allMp4Files\tstatement"
+			],
+			[
+				"qu",
+				"queue"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"re",
+				"re\trequire"
+			],
+			[
+				"ng-cl",
+				"ng-click\tAngularJS"
+			],
+			[
+				"rest",
+				"restartTom"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"trans",
+				"transform-origin"
+			],
+			[
+				"tran",
+				"transform-origin"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"onmou",
+				"onmouseover\tAttr"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ta",
+				"table-row"
+			],
+			[
+				"show",
+				"showBigCard"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sc",
+				"script\t<script>"
+			],
+			[
+				"text",
+				"text-overflow"
+			],
+			[
+				"tra",
+				"transition-duration"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"compo",
+				"componentWillUnmount\tLife Cycle Method"
+			],
+			[
+				"coma",
+				"componentWillUpdate\tLife Cycle Method"
+			],
+			[
+				"im",
+				"imrd\timport react-dom"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"main",
+				"src/style/main.css"
+			],
+			[
+				"Reac",
+				"React.Component\tComponent Template (ES2015)"
+			],
+			[
+				"Rea",
+				"React.Component\tComponent Template (ES2015)"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"web",
+				"webpack-dev-server"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"root",
+				"$rootScope\tAngularJS"
+			],
+			[
+				"td",
+				"td\t<td>"
+			],
+			[
+				"writeFile",
+				"fs.writeFileSync"
+			],
+			[
+				"getEle",
+				"getElementById(id)\tElement"
+			],
+			[
+				"string",
+				"toString\tFunction"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"cons",
+				"console.log()"
+			],
+			[
+				"async",
+				"async_waterfall\tasync_waterfall"
+			],
+			[
+				"asyn",
+				"async_foreach\tasync_foreach"
+			],
+			[
+				"vtp",
+				"vtp_mesh\tstatement"
+			],
+			[
+				"vt",
+				"vtp_mesh\tstatement"
+			],
+			[
+				"split",
+				"splitext\tfunction"
+			],
+			[
+				"disp",
+				"disp_vol\tstatement"
+			],
+			[
+				"count_",
+				"count_diff"
+			],
+			[
+				"temp",
+				"temp_line\tstatement"
+			],
+			[
+				"cou",
+				"count_diff"
+			],
+			[
+				"count",
+				"count_waveHead2"
+			],
+			[
+				"inf",
+				"infinite"
+			],
+			[
+				"wave",
+				"waveHead\tstatement"
+			],
+			[
+				"ra",
+				"radAll"
+			],
+			[
+				"num",
+				"num_bodies\tstatement"
+			],
+			[
+				"h",
+				"hdf5"
+			],
+			[
+				"wamit",
+				"wamit_data_obj\tstatement"
+			],
+			[
+				"wr",
+				"write_hdf5\tfunction"
+			],
+			[
+				"plot",
+				"plot_am_rd"
+			],
+			[
+				"raw",
+				"raw"
+			],
+			[
+				"ex_",
+				"ex_phase\tstatement"
+			],
+			[
+				"n_",
+				"n_w\tstatement"
+			],
+			[
+				"H",
+				"HydrodynamicData\tclass"
+			],
+			[
+				"flip",
+				"flipud\tfunction"
+			],
+			[
+				"read",
+				"readlines"
+			],
+			[
+				"result",
+				"results_dir\tparam"
+			],
+			[
+				"c",
+				"ceil\timport"
+			],
+			[
+				"dup",
+				"dupCount\tstatement"
+			],
+			[
+				"k",
+				"key\tforflow"
+			],
+			[
+				"a",
+				"all\tstatement"
+			],
+			[
+				"t",
+				"tSeries\tstatement"
+			],
+			[
+				"wsm",
+				"wsmBase"
+			],
+			[
+				"d",
+				"dnvBase\tstatement"
+			],
+			[
+				"dnv",
+				"dnvFreq\tstatement"
+			],
+			[
+				"rm",
+				"remove\tfunction"
+			],
+			[
+				"write",
+				"writeVtp\tfunction"
+			],
+			[
+				"save",
+				"savetxt\tfunction"
+			],
+			[
+				"am",
+				"amTemp\tstatement"
+			],
+			[
+				"m",
+				"m\tstatement"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"w",
+				"waveDir"
+			],
+			[
+				"b",
+				"buoyForce"
+			],
+			[
+				"vo",
+				"volDisp"
+			],
+			[
+				"g",
+				"g"
+			],
+			[
+				"at",
+				"attrs\tfunction"
+			],
+			[
+				"Hy",
+				"HydrodynamicExcitation"
+			],
+			[
+				"iin",
+				"interactive\tfunction"
+			],
+			[
+				"aq",
+				"aqwaio"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "angular-filemanager-nodejs-bridge/server.js",
+			"settings":
+			{
+				"buffer_size": 1242,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 31,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/Desktop/startDMSProject.bat",
+			"settings":
+			{
+				"buffer_size": 180,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Markdown Preview/Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "word",
+		"selected_items":
+		[
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"word wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"disable lint",
+				"Python: Disable Pep8 Linting On View"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"package contr",
+				"Package Control: Remove Package"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"word wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"sass:",
+				"Snippet: CSS - animation-play-state: ;"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"io",
+				"i/o node: Create Project"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-clearfix"
+			],
+			[
+				"textpa",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"bs3carou",
+				"Snippet: bs3-carousel"
+			],
+			[
+				"disa",
+				"Python: Disable Pep8 Linting On View"
+			],
+			[
+				"terminal",
+				"Terminal: Open"
+			],
+			[
+				"pastry",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"disable",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"number",
+				"Emmet: Increment Number by 1"
+			],
+			[
+				"minimap",
+				"View: Toggle Minimap"
+			],
+			[
+				"disablelint",
+				"Python: Disable Pep8 Linting On View"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"termina",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"disabl linter",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"linter",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"uninstall",
+				"Nodejs::NPM::Uninstall"
+			],
+			[
+				"new folder",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"shortcut",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"jsons",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"mini ma",
+				"View: Toggle Minimap"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"word wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"elastic",
+				"Elasticsearch: Cluster Health"
+			],
+			[
+				"elasticsearc",
+				"Elasticsearch: Info"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"theme",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"minima",
+				"View: Toggle Minimap"
+			],
+			[
+				"lint",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"java",
+				"Javascript Beautify"
+			],
+			[
+				"snippet",
+				"Canvas Snippets: Open CheatSheet"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"format",
+				"Snippet: Formatted Message"
+			],
+			[
+				"synta html",
+				"Set Syntax: HTML"
+			],
+			[
+				"mark",
+				"Markdown HTML Preview"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"syntax ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"lint dis",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"synta jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"syntareact",
+				"Set Syntax: React Templates"
+			],
+			[
+				"synta react ",
+				"Set Syntax: React Templates"
+			],
+			[
+				"hm",
+				"Set Syntax: HTML"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"set jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"html5",
+				"Snippet: IE Conditional Comment: HTML5 Shim"
+			],
+			[
+				"set synt react",
+				"Set Syntax: React Templates"
+			],
+			[
+				"view",
+				"View: Toggle Minimap"
+			],
+			[
+				"synhtml ",
+				"Set Syntax: HTML"
+			],
+			[
+				"jsone",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"snippet console",
+				"Snippet: console.log"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"jav",
+				"Javascript Beautify"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"disabl",
+				"Python: Disable Pep8 Linting On View"
+			],
+			[
+				"tasb",
+				"View: Toggle Tabs"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"tab",
+				"Snippet: <table>"
+			],
+			[
+				"wordw",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ja",
+				"Javascript Beautify"
+			],
+			[
+				"synta java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"eslint",
+				"Emmet: Select Next Item"
+			],
+			[
+				"eslinter",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"enable lint",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"lint ena",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"disabl ",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sytamd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"synta md",
+				"Set Syntax: Markdown"
+			],
+			[
+				"jsonstrin",
+				"Snippet: JSON.stringify"
+			],
+			[
+				"jsonst",
+				"Snippet: JSON.stringify"
+			],
+			[
+				"jsonstri",
+				"Snippet: JSON.stringify"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"jsonstr",
+				"Snippet: JSON.stringify"
+			],
+			[
+				"jsonin",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"jsonstron",
+				"Snippet: JS constructor pattern"
+			],
+			[
+				"javanex",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"beauti",
+				"HTMLBeautify"
+			],
+			[
+				"timeout",
+				"Snippet: setTimeout"
+			],
+			[
+				"ever",
+				"Evernote: List recent notes"
+			],
+			[
+				"update",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"evern",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"pydyc",
+				"Python 2 Doc Search (PyDOC)"
+			],
+			[
+				"pydoc",
+				"Python 2 Doc Search (PyDOC)"
+			],
+			[
+				"shell",
+				"SublimeREPL: Shell"
+			],
+			[
+				"ipy",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"PYTHON",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"sublimeREPL:py",
+				"SublimeREPL: Python"
+			],
+			[
+				"rep",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"re",
+				"SublimeREPL: Python"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 740.0
+	},
+	"console":
+	{
+		"height": 298.0,
+		"history":
+		[
+			"print os.curdir()",
+			"os.curdir()",
+			"os.currdir();",
+			"import os",
+			"print os.curdir()",
+			"import os",
+			"4 +3 ",
+			"clear",
+			"cls",
+			"exit()",
+			"cls",
+			"clear",
+			"asda",
+			"clear",
+			"a",
+			"a+=1",
+			"a = 5",
+			"file_diff_menue",
+			"import matplotlib",
+			"ipython",
+			"ls",
+			"a",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"pdb",
+			"import numpy",
+			"a = 5",
+			"os.system('pwd')",
+			"os.system('ls')",
+			"import os",
+			"from matplotlib import *",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/code/temp/el/dms"
+	],
+	"file_history":
+	[
+		"/D/code/temp/el/dms/startUI.bat",
+		"/D/code/temp/el/dms/startServer.bat",
+		"/C/Users/Administrator/Desktop/startDMSProject.bat",
+		"/D/code/temp/el/dms/angular-filemanager/ui.log",
+		"/D/code/temp/el/dms/server.log",
+		"/D/tmp.json",
+		"/d/code/temp/el/dms/angular-filemanager/gulpfile.js",
+		"/D/code/topcoder/tc/tcadmin/tc-admin-app/projects-lambda/README.md",
+		"/D/code/topcoder/tc/tcadmin/tc-admin-app/projects-lambda/test_data/works.json",
+		"/D/code/topcoder/tc/tcadmin/tc-admin-app/projects-lambda/context.json",
+		"/D/code/topcoder/tc/tcadmin/tc-admin-app/projects-lambda/server.js",
+		"/D/code/topcoder/tc/tcadmin/tc-admin-app/README.md",
+		"/D/code/topcoder/tc/tcadmin/tc-admin-app/admin-app-mock-api/README.txt",
+		"/C/Users/Administrator/Desktop/scrap.txt",
+		"/d/code/temp/el/dms/angular-filemanager/.gitignore",
+		"/d/code/temp/el/dms/angular-filemanager/src/js/services/apimiddleware.js",
+		"/d/code/temp/el/dms/angular-filemanager/src/js/services/apihandler.js",
+		"/d/code/temp/el/dms/angular-filemanager/bower.json",
+		"/d/code/temp/el/dms/angular-filemanager/bridges/php/handler.php",
+		"/D/code/temp/el/dms/angular-filemanager/.eslintrc",
+		"/d/code/temp/el/dms/angular-filemanager/index.html",
+		"/D/code/temp/el/dms/angular-filemanager/gulpfile-2.js",
+		"/d/code/temp/el/dms/angular-filemanager/src/js/app.js",
+		"/C/Users/Administrator/Desktop/emacs_doc/Electronic_Interface.txt",
+		"/D/code/venv/network/Lib/no-global-site-packages.txt",
+		"/D/code/c/main.c",
+		"/D/code/node/RESTful-api-scaffold/REST.js",
+		"/D/code/node/RESTful-api-scaffold/Server.js",
+		"/d/code/temp/generator-es6/node_modules/async/package.json",
+		"/D/code/temp/es6-tutorial-data/webpack.config.js",
+		"/d/code/temp/generator-es6/package.json",
+		"/D/code/temp/es6-tutorial-data/package.json",
+		"/D/code/temp/es6-tutorial-data/js/login.js",
+		"/D/code/temp/es6-tutorial-data/js/employee-service.js",
+		"/D/code/temp/es6-tutorial-data/js/employee-service-mock.js",
+		"/d/code/temp/es6-tutorial-data/employees.json",
+		"/d/code/temp/es6-tutorial-data/webpack.config.js",
+		"/d/code/temp/es6-tutorial-data/package.json",
+		"/D/code/temp/es6-tutorial/index.html",
+		"/D/code/temp/es6-tutorial/ratefinder.html",
+		"/d/code/temp/es6-tutorial/js/main-2.js",
+		"/D/code/temp/es6-tutorial/js/rates-service-mock.js",
+		"/D/code/temp/es6-tutorial/js/mortgage.js",
+		"/d/code/temp/es6-tutorial/js/main.js",
+		"/D/code/temp/es6-tutorial/webpack.config.js",
+		"/D/code/temp/es6-tutorial/js/main-2.js",
+		"/d/code/temp/es6-tutorial/index.html",
+		"/d/code/temp/es6-tutorial/package.json",
+		"/D/code/node/server.js",
+		"/D/code/node/sqlServer.js",
+		"/d/code/temp/es6-tutorial/build/main.bundle.js",
+		"/D/code/topcoder/Softbank - Web Scraping API/sb-account-service-base-bugfix-remit-api/app/services/FooService.js",
+		"/D/code/topcoder/Softbank - Web Scraping API/sb-account-service-base-bugfix-remit-api/app/app.js",
+		"/D/code/topcoder/retailer-loyalty-mobile-app/js/app.js",
+		"/D/code/topcoder/Softbank - Web Scraping API/requirements.txt",
+		"/D/code/el/dms/angular-filemanager/index.html",
+		"/D/Temp/books.txt",
+		"/D/code/topcoder/retailer-loyalty-mobile-app/landing.html",
+		"/D/code/topcoder/retailer-loyalty-mobile-app/index.html",
+		"/D/code/el/dms/angular-filemanager-nodejs-bridge/server.js",
+		"/D/code/el/dms/angular-filemanager-nodejs-bridge/.env",
+		"/D/code/el/dms/angular-filemanager-nodejs-bridge/utils/pathresolver.js",
+		"/D/code/el/dms/angular-filemanager-nodejs-bridge/routes/index.js",
+		"/D/code/el/dms/angular-filemanager/src/js/services/apimiddleware.js",
+		"/D/code/el/dms/angular-filemanager-nodejs-bridge/package.json",
+		"/D/Temp/testRoundness.py",
+		"/D/code/el/dms/angular-filemanager/npm-debug.log",
+		"/D/code/topcoder/drone/dsp-server/common/ErrorMiddleware.js",
+		"/D/code/topcoder/drone/dsp-server/swagger.yaml",
+		"/C/Users/Administrator/Downloads/challenge.yaml",
+		"/D/code/el/angular-filemanager/index.html",
+		"/D/code/el/angular-filemanager/package.json",
+		"/D/code/el/angular-filemanager/gulpfile.js",
+		"/D/code/el/angular-filemanager/bower.json",
+		"/D/code/el/angular-filemanager/API.md",
+		"/D/code/el/dms/2/index.js",
+		"/D/code/el/dms/2/client/app.js",
+		"/D/code/el/dms/2/index.html",
+		"/D/code/el/dms/express-es6-rest-api/README.md",
+		"/D/code/topcoder/0000Projects/cloudhub/waterworks/app.js",
+		"/D/code/el/dms/2/app.js",
+		"/D/Temp/link.js",
+		"/D/code/el/dms/2/package.json",
+		"/D/code/tools/microservice/tc-project-service/swagger.yaml",
+		"//192.168.172.219/Public/Reji/GiverFactory.js",
+		"/D/code/el/dms/node_modules/file-browser/index.js",
+		"/D/code/el/dms/package.json",
+		"//192.168.172.219/Public/sethu/httpd.conf",
+		"//192.168.172.219/Public/Pradeesh/seeker/addcompet.js",
+		"/D/code/topcoder/GE_Risk_MVP/ge-risk-gameboard/API_Server/common/helper.js",
+		"/D/code/topcoder/GE_Risk_MVP/ge-risk-gameboard/API_Server/config/default.js",
+		"/D/code/topcoder/GE_Risk_MVP/ge-risk-gameboard/API_Server/app-routes.js",
+		"/D/code/topcoder/GE_Risk_MVP/ge-risk-gameboard/API_Server/common/logger.js",
+		"/D/code/topcoder/GE_Risk_MVP/ge-risk-gameboard/API_Server/common/errors.js",
+		"/D/code/topcoder/GE_Risk_MVP/ge-risk-gameboard/API_Server/seed_files/generate-lookups.js",
+		"/D/code/topcoder/GE_Risk_MVP/ge-risk-gameboard/API_Server/src/models/User.js",
+		"/D/code/topcoder/GE_Risk_MVP/ge-risk-gameboard/API_Server/app.js",
+		"/D/code/topcoder/GE_Risk_MVP/ge-risk-gameboard/API_Server/src/controllers/UserController.js",
+		"/D/code/topcoder/GE_Risk_MVP/ge-risk-gameboard/API_Server/src/routes.js",
+		"/D/code/topcoder/GE_Risk_MVP/ge-risk-gameboard/API_Server/src/controllers/GraphController.js",
+		"/D/code/topcoder/GE_Risk_MVP/ge-risk-gameboard/API_Server/src/controllers/NodeController.js",
+		"/D/code/topcoder/GE_Risk_MVP/ge-risk-gameboard/API_Server/src/controllers/RoleController.js",
+		"/D/code/topcoder/Scout_d3ChartsPrototypeIntegration/doe-prototype-v8/energy.html",
+		"/D/Temp/conhost.DMP",
+		"/D/code/topcoder/reactjs/js/scripts.js",
+		"/D/code/topcoder/reactjs/index.html",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/ElasticsearchClient/Elasticsearch.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/ElasticsearchClient/ElasticsearchClient.py",
+		"/D/code/topcoder/experiment/react-js-tutorials/1-basic-react/package.json",
+		"/C/Users/Administrator/Downloads/xapi_login.rb",
+		"/D/Temp/scss/style/scss/modules/_blocks.scss",
+		"/D/Temp/scss/style/scss/modules/_components.scss",
+		"/D/Temp/scss/style/scss/base/_normalize.scss",
+		"/D/Temp/scss/style/scss/base/_blog.scss",
+		"/D/Temp/scss/style/scss/modules/_sections.scss",
+		"/D/Temp/scss/style/scss/modules/_typography.scss",
+		"/D/Temp/scss/style/scss/base/_mixins.scss",
+		"/D/Temp/scss/style/scss/layout/_footer.scss",
+		"/D/Temp/scss/style/scss/base/_variables.scss",
+		"/D/Temp/scss/style/scss/base/_base.scss",
+		"/D/Temp/scss/style/scss/modules/_forms.scss",
+		"/D/Temp/scss/style/scss/modules/_buttons.scss",
+		"/D/Temp/scss/index.html",
+		"/D/Temp/scss/style/scss/main.scss",
+		"/D/Temp/scss/style/scss/layout/_nav.scss",
+		"/D/Temp/gulp/gulpfile.js",
+		"/C/Users/Administrator/Desktop/topcoder.session"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"D:\\code\\topcoder\\600_96apminAPI\\AdminTool\\admin-app.dev\\src\\app\\projects",
+			"D:\\code\\topcoder\\600_96apminAPI\\AdminTool\\admin-app.dev\\",
+			"D:\\code\\topcoder\\600_96apminAPI\\AdminTool\\admin-app.dev\\src",
+			"D:\\code\\topcoder\\600_96apminAPI\\AdminTool\\admin-app.dev\\",
+			"D:\\code\\topcoder\\600_96apminAPI\\AdminTool\\admin-app.dev\\gulp",
+			"D:\\code\\topcoder\\600_96apminAPI\\AdminTool\\admin-app.dev\\src",
+			"",
+			"D:\\code\\topcoder\\500TagsAdmin\\AdminTool\\admin-app.dev\\src",
+			"",
+			"D:\\code\\topcoder\\450waterworksApiAdditions\\waterworks\\api",
+			"D:\\code\\topcoder\\450waterworksApiAdditions\\waterworks\\test",
+			"D:\\code\\topcoder\\450waterworksApiAdditions\\waterworks\\api",
+			"D:\\code\\topcoder\\450waterworksApiAdditions\\waterworks\\test",
+			"D:\\code\\topcoder\\450waterworksApiAdditions\\waterworks\\",
+			"D:\\code\\topcoder\\450waterworksApiAdditions\\waterworks\\api",
+			"",
+			"D:\\code\\topcoder\\600FileUploadMicroservice\\ap-file-microservice",
+			"",
+			"D:\\code\\topcoder\\adminappmockapi\\client\\src",
+			"D:\\code\\topcoder\\adminappmockapi\\client\\bower_components",
+			"D:\\code\\topcoder\\adminappmockapi\\bower_components",
+			"D:\\code\\topcoder\\adminappmockapi\\",
+			"D:\\code\\topcoder\\adminappmockapi\\client\\src",
+			"D:\\code\\topcoder\\adminappmockapi\\server",
+			"D:\\code\\topcoder\\adminappmockapi\\client\\src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"^",
+			"host",
+			"searchForm",
+			"let",
+			"<",
+			"function",
+			"var",
+			"[0-9].[0-9]+-",
+			"[0-9].[0-9-]",
+			"[0-9]",
+			"-",
+			"#.. ",
+			"document.getElementById('calcBtn').addEventListener('click', () => {\n    let principal = document.getElementById(\"principal\").value;\n    let years = document.getElementById(\"years\").value;\n    let rate = document.getElementById(\"rate\").value;\n    let {monthlyPayment, monthlyRate, amortization} = mortgage.calculateAmortization(principal, years, rate);\n    document.getElementById(\"monthlyPayment\").innerHTML = monthlyPayment.toFixed(2);\n    document.getElementById(\"monthlyRate\").innerHTML = monthlyRate.toFixed(2);\n    amortization.forEach(month=> console.log(month));\n});\n",
+			"=> ",
+			"monthl",
+			"Monthl",
+			"monthl",
+			"var",
+			".* *= *function",
+			".*function",
+			"self.deferredHandler(data, deferred, code, $translate.instant(",
+			"self.deferredHandler.data, deferred, code, $translate.instant",
+			"self.deferredHandler(data, deferred, code, $translate.instant\\(",
+			"self.deferredHandler(data, deferred, code, $translate.instant(",
+			"self.deferredHandler(data, deferred, code, $translate.instant('error_modifying'));",
+			"apihandler.prototype",
+			"config.set",
+			"getCOntent",
+			"get",
+			"10",
+			"https",
+			"';\n",
+			"kamal",
+			",",
+			"head",
+			"heading",
+			"body",
+			"333333",
+			"^",
+			";",
+			"^",
+			"$",
+			";",
+			" Part ",
+			"@",
+			"nav",
+			"/",
+			" \n",
+			"tracker",
+			"^",
+			"HSZVgdsXoKQ",
+			"Performance Metrics Precision",
+			"has already been downloaded and merged",
+			"\\[download\\]",
+			".*merged",
+			"count",
+			"^",
+			"entries",
+			"playlistFile",
+			"playListFile",
+			"playListFiles",
+			"myf",
+			"line",
+			"allMp4Files",
+			"by U *dacity",
+			"by Udacity",
+			"playListFiles",
+			"myfile",
+			"allfiles",
+			"modules",
+			"parser",
+			": \"details",
+			"key",
+			"alt\\+enter",
+			"circle.yml",
+			"^code",
+			"First 2 Finish",
+			"Didn't finish",
+			"application/json",
+			"consumes\": \\[]",
+			"produces\": \\[]",
+			"consumes\": \\[]",
+			"consumes",
+			"\"\"",
+			"\"",
+			"a350e843-c0dc-40ad-81b4-63ec066ea585",
+			"1303179705",
+			"MEMBER_ES_HOST",
+			"app.constants",
+			"constants",
+			"choose files",
+			"reports",
+			"javascript",
+			"/reports",
+			"header.html",
+			"markerList",
+			"reports",
+			"marking-time",
+			"http",
+			" ",
+			"server",
+			"usermodule",
+			"history",
+			"statrequest",
+			"{",
+			"post:\n  description: \"Add New Module\"\n  operationId: addModule\n  tags:\n    - modules\n  parameters:\n    - in: header\n      name: authorization\n      description: Authorization token obtained post login\n      required: true\n      type: string\n    - in: body\n      name: body\n      description: Module object that needs to be added\n      required: false\n      schema:\n        $ref: '#/definitions/AddOrUpdateModuleReq'\n  responses:\n    '200':\n      description: Success\n      schema:\n        $ref: '#/definitions/SuccessResponse'\n    '400':\n      description: Bad Request\n      schema:\n        $ref: '#/definitions/ErrorResponse'\n    '401':\n      description: Unauthorized\n      schema:\n        $ref: '#/definitions/ErrorResponse'\n    '403':\n      description: Forbidden\n      schema:\n        $ref: '#/definitions/ErrorResponse'\n    default:\n      description: Error\n      schema:\n        $ref: '#/definitions/ErrorResponse'",
+			"{",
+			"filter",
+			"enum",
+			"filter",
+			"header",
+			"ref",
+			"$Ref",
+			"company",
+			"Company",
+			"template",
+			"swagger",
+			"SCIM",
+			"type.*",
+			":",
+			"http",
+			"http.*",
+			"DLX",
+			"class",
+			"Destination",
+			"Destination.*",
+			"youtube].*",
+			"sti"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"var",
+			"let",
+			"allMp4Files",
+			"Module",
+			"",
+			"  ",
+			"    ",
+			" ",
+			"",
+			"  ",
+			"\",\"",
+			"  ",
+			"wamit_data_obj",
+			"self",
+			"self.ss.max",
+			"self.ss.rad_conv   = np.array([])",
+			"self.ss.it",
+			"self.ss.ss_it",
+			"self.ss.ss_rad_conv",
+			"self.ss.r2t",
+			"self.ss.irk_bss",
+			"self.ss.r2_thresh",
+			"b",
+			"a",
+			"proc",
+			"w",
+			"raw",
+			"hydro_data",
+			"amrdProc",
+			"tmp",
+			"z_ind",
+			"ca",
+			"cm",
+			"shape_rd",
+			"t_ind",
+			"'body' + str(key) + ",
+			"'simulation_parameters",
+			"simulation_parameters",
+			"simulation_parameters/",
+			"/properties/",
+			"/sim_parameters/",
+			"/hydro_coeffs/",
+			"data[key].name",
+			"wsm",
+			"dnv",
+			"pdsB",
+			"dnvB",
+			"wsmB",
+			"",
+			"pds",
+			"",
+			"dnvW",
+			"dnvT",
+			"wsmW",
+			"key",
+			"str(self",
+			"",
+			",",
+			" ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "angular-filemanager-nodejs-bridge/server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								393,
+								393
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tabs_extra_last_activated": 1483345848.75,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tabs_extra_last_activated": 1483345882.45,
+							"tabs_extra_last_activated_sheet_index": 1,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Administrator/Desktop/startDMSProject.bat",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								180
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Batch File/Batch File.sublime-syntax",
+							"tabs_extra_last_activated": 1483345600.79,
+							"tabs_extra_last_activated_sheet_index": 1,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 241.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 106.0
+	},
+	"pinned_build_system": "",
+	"project": "dms.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".gitin",
+				".gitignore"
+			],
+			[
+				"apihandler",
+				"src\\js\\services\\apihandler.js"
+			],
+			[
+				"services/",
+				"src\\js\\services\\apimiddleware.js"
+			],
+			[
+				"package.json",
+				"package.json"
+			],
+			[
+				"apcka",
+				"node_modules\\async\\package.json"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"login.js",
+				"login.js"
+			],
+			[
+				"emplo",
+				"employees.json"
+			],
+			[
+				"emploe",
+				"employees.json"
+			],
+			[
+				"webp",
+				"webpack.config.js"
+			],
+			[
+				"app",
+				"js\\app.js"
+			],
+			[
+				"pakca",
+				"package.json"
+			],
+			[
+				"ratefined",
+				"ratefinder.html"
+			],
+			[
+				"ratefinder.js",
+				"js\\ratefinder.js"
+			],
+			[
+				"rate-",
+				"js\\rates-service-mock.js"
+			],
+			[
+				"webpack",
+				"webpack.config.js"
+			],
+			[
+				"main.js",
+				"js\\main.js"
+			],
+			[
+				"index.html",
+				"index.html"
+			],
+			[
+				".env",
+				"angular-filemanager-nodejs-bridge\\.env"
+			],
+			[
+				"app.js",
+				"waterworks\\app.js"
+			],
+			[
+				"fileindex",
+				"node_modules\\file-browser\\index.js"
+			],
+			[
+				"compo",
+				"scss\\style\\scss\\modules\\_components.scss"
+			],
+			[
+				"blog",
+				"scss\\style\\scss\\base\\_blog.scss"
+			],
+			[
+				"_norma",
+				"scss\\style\\scss\\base\\_normalize.scss"
+			],
+			[
+				"blocks",
+				"scss\\style\\scss\\modules\\_blocks.scss"
+			],
+			[
+				"typo",
+				"scss\\style\\scss\\modules\\_typography.scss"
+			],
+			[
+				"mixin",
+				"scss\\style\\scss\\base\\_mixins.scss"
+			],
+			[
+				"section",
+				"scss\\style\\scss\\modules\\_sections.scss"
+			],
+			[
+				"nomra",
+				"scss\\style\\scss\\base\\_normalize.scss"
+			],
+			[
+				"base",
+				"scss\\style\\scss\\base\\_base.scss"
+			],
+			[
+				"varia",
+				"scss\\style\\scss\\base\\_variables.scss"
+			],
+			[
+				"footer",
+				"scss\\style\\scss\\layout\\_footer.scss"
+			],
+			[
+				"button",
+				"scss\\style\\scss\\modules\\_buttons.scss"
+			],
+			[
+				"typogr",
+				"scss\\style\\scss\\modules\\_typography.scss"
+			],
+			[
+				"main",
+				"scss\\style\\scss\\main.scss"
+			],
+			[
+				"normali",
+				"scss\\style\\scss\\base\\_normalize.scss"
+			],
+			[
+				"_block",
+				"scss\\style\\scss\\modules\\_blocks.scss"
+			],
+			[
+				"_forms",
+				"scss\\style\\scss\\modules\\_forms.scss"
+			],
+			[
+				"sections",
+				"scss\\style\\scss\\modules\\_sections.scss"
+			],
+			[
+				"mix",
+				"scss\\style\\scss\\base\\_mixins.scss"
+			],
+			[
+				"_var",
+				"scss\\style\\scss\\base\\_variables.scss"
+			],
+			[
+				"_va",
+				"scss\\style\\scss\\base\\_variables.scss"
+			],
+			[
+				"_section",
+				"scss\\style\\scss\\modules\\_sections.scss"
+			],
+			[
+				"_mi",
+				"scss\\style\\scss\\base\\_mixins.scss"
+			],
+			[
+				"_nav",
+				"scss\\style\\scss\\layout\\_nav.scss"
+			],
+			[
+				"_mixin",
+				"scss\\style\\scss\\base\\_mixins.scss"
+			],
+			[
+				"_base",
+				"scss\\style\\scss\\base\\_base.scss"
+			],
+			[
+				"index.",
+				"index.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"main.css",
+				"style\\main.css"
+			],
+			[
+				"header",
+				"style\\scss\\layout\\_header.scss"
+			],
+			[
+				"mi",
+				"style\\scss\\base\\_mixins.scss"
+			],
+			[
+				"foote",
+				"style\\scss\\layout\\_footer.scss"
+			],
+			[
+				"hea",
+				"style\\scss\\layout\\_header.scss"
+			],
+			[
+				"rese",
+				"style\\scss\\base\\_reset.scss"
+			],
+			[
+				"reset",
+				"style\\scss\\base\\_reset.scss"
+			],
+			[
+				"index",
+				"scss\\index.html"
+			],
+			[
+				"pac",
+				"tc-project-service\\package.json"
+			],
+			[
+				"swagger",
+				"api\\swagger\\swagger.yaml"
+			],
+			[
+				"con",
+				"config\\config.js"
+			],
+			[
+				"usercontroller",
+				"api\\controllers\\userController.js"
+			],
+			[
+				"statcontroller",
+				"api\\controllers\\statController.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"statcontrller",
+				"api\\controllers\\statController.js"
+			],
+			[
+				"swagger.",
+				"api\\swagger\\swagger.yaml"
+			],
+			[
+				"users.json",
+				"admin-app-mock-api\\users.json"
+			],
+			[
+				"config.js",
+				"admin-app-mock-api\\config.js"
+			],
+			[
+				"bower.",
+				"admin-app.dev-cf0c746\\bower.json"
+			],
+			[
+				"main.",
+				"public\\css\\main.css"
+			],
+			[
+				"reports",
+				"public\\app\\reports\\reports.html"
+			],
+			[
+				"exper",
+				"public\\app\\expert-marking-examples\\expert-marking-examples.html"
+			],
+			[
+				"experma",
+				"public\\app\\expert-marking-examples\\expert-marking-examples.js"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"usermod",
+				"definitions\\UserModule.yaml"
+			],
+			[
+				"userhist",
+				"definitions\\UserHistoryReq.yaml"
+			],
+			[
+				"module.",
+				"definitions\\Module.yaml"
+			],
+			[
+				"swage",
+				"swagger.yaml"
+			],
+			[
+				"answer",
+				"paths\\answer.yaml"
+			],
+			[
+				"user_{userid}_progress",
+				"paths\\user_{userId}_progress.yaml"
+			],
+			[
+				"moduel",
+				"paths\\module_{id}.yaml"
+			],
+			[
+				"mergesw",
+				"mergeSwagger.js"
+			],
+			[
+				"userhistoryreq",
+				"definitions\\UserHistoryReq.yaml"
+			],
+			[
+				"user_{",
+				"paths\\user_{userId}_progress.yaml"
+			],
+			[
+				"module",
+				"paths\\module_{id}.yaml"
+			],
+			[
+				"documetn",
+				"js\\controllers\\documentDetailPageCtrl.js"
+			],
+			[
+				"env",
+				".env"
+			],
+			[
+				"login",
+				"client\\pages\\login\\Login.jsx"
+			],
+			[
+				"route",
+				"client\\Routes.jsx"
+			],
+			[
+				"an",
+				"animate.css"
+			],
+			[
+				"desc",
+				"spring-cloud-stream-app-descriptor-1.0.0.RC1.stream-apps-rabbit-maven"
+			],
+			[
+				"po",
+				"rabbit_source\\pom.xml"
+			],
+			[
+				"poml.",
+				"pom.xml"
+			],
+			[
+				"mvnw",
+				"rabbit_source\\mvnw"
+			],
+			[
+				"contact",
+				"reactlib\\src\\js\\pages\\Contact.js"
+			],
+			[
+				"modal",
+				"reactlib\\src\\js\\components\\Modal.js"
+			],
+			[
+				"layout",
+				"reactlib\\src\\js\\pages\\Layout.js"
+			],
+			[
+				"clin",
+				"reactlib\\src\\js\\client.js"
+			],
+			[
+				"over",
+				"reactlib\\src\\js\\pages\\Overview.js"
+			],
+			[
+				"ayout",
+				"reactlib\\src\\js\\pages\\Layout.js"
+			],
+			[
+				"clien",
+				"reactlib\\src\\js\\client.js"
+			],
+			[
+				"help",
+				"reactlib\\src\\js\\pages\\Help.js"
+			],
+			[
+				"documen",
+				"reactlib\\src\\js\\pages\\Documentation.js"
+			],
+			[
+				"side",
+				"reactlib\\src\\js\\components\\sidebar.js"
+			],
+			[
+				"star",
+				"reactlib\\src\\js\\pages\\StartProject.js"
+			],
+			[
+				"navb",
+				"reactlib\\src\\js\\components\\layout\\Navbar_old.js"
+			],
+			[
+				"navbar",
+				"reactlib\\src\\js\\components\\layout\\Navbar_old.js"
+			],
+			[
+				"card",
+				"reactlib\\src\\js\\components\\cards\\HelpCard.js"
+			],
+			[
+				"la",
+				"reactlib\\src\\js\\pages\\Layout.js"
+			],
+			[
+				"tool",
+				"reactlib\\src\\js\\components\\Toolbox.js"
+			],
+			[
+				"indx",
+				"reactlib\\src\\index.html"
+			],
+			[
+				"webpa",
+				"reactlib\\webpack.config.js"
+			],
+			[
+				"dataset",
+				"reactlib\\src\\js\\components\\cards\\DatasetCard.js"
+			],
+			[
+				"main.sc",
+				"reactlib\\src\\style\\main.scss"
+			],
+			[
+				"man",
+				"reactlib\\src\\style\\main.css"
+			],
+			[
+				"projects",
+				"reactlib\\src\\js\\pages\\Projects.js"
+			],
+			[
+				"cards",
+				"reactlib\\src\\js\\components\\cards\\HelpCard.js"
+			],
+			[
+				"brea",
+				"reactlib\\src\\js\\components\\layout\\Breadcrumb.js"
+			],
+			[
+				"web",
+				"reactlib\\webpack.config.js"
+			],
+			[
+				"pro",
+				"reactlib\\src\\js\\pages\\Projects.js"
+			],
+			[
+				"breac",
+				"reactlib\\src\\js\\components\\layout\\Breadcrumb.js"
+			],
+			[
+				"toolbo",
+				"reactlib\\src\\js\\components\\Toolbox.js"
+			],
+			[
+				"document",
+				"reactlib\\src\\js\\pages\\Documentation.js"
+			],
+			[
+				"nav",
+				"reactlib\\src\\js\\components\\layout\\Navbar_old.js"
+			],
+			[
+				"breadcrum",
+				"reactlib\\src\\js\\components\\layout\\Breadcrumb.js"
+			],
+			[
+				"lau",
+				"reactlib\\src\\js\\pages\\Layout.js"
+			],
+			[
+				"navba",
+				"reactlib\\src\\js\\components\\layout\\Navbar_old.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -77,12 +77,16 @@ routes.post('/list', function (req, res, next) {
   return promise;
 });
 
-routes.get('/download', function (req, res, next) {
 
-  var filePath = path.join(pathResolver.baseDir(req), pathResolver.pathGuard(req.query.path));
+routes.get(['/download', '/download/:id'], function (req, res, next) {
+
+  // var filePath = path.join(pathResolver.baseDir(req), pathResolver.pathGuard(req.query.path));
+  let somePath = req.query.path || req.params.id;
+  console.log("name of the file is: ", somePath);
+  var filePath = path.join(pathResolver.baseDir(req), pathResolver.pathGuard(somePath));
   var fileName = path.basename(filePath);
   var promise;
-  //console.log('filepath',filePath);
+  console.log('filepath: ',filePath);
   promise = fs.statAsync(filePath);
 
   promise = promise.then(function(stat) {
@@ -115,6 +119,8 @@ routes.get('/download', function (req, res, next) {
 
   return promise;
 });
+
+
 
 routes.post('/upload', upload.any(), function (req, res, next) {
 
@@ -263,7 +269,6 @@ routes.post('/getContent', function (req, res, next) {
   res.status(200);
   console.log("checking the request body", req.body);
   var filePath = path.join(pathResolver.baseDir(req), pathResolver.pathGuard(req.body.item));
-  filePath = "d:/temp/link.js";
   var promise = fs.readFileAsync(filePath,'utf8');
   promise = promise.then(function (resolve){
     //console.log(resolve);
